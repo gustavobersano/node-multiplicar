@@ -1,0 +1,19 @@
+{
+  "name": "multiplicar-app",
+  "version": "1.0.0",
+  "description": "Este es un programa de linea de comando.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustavobersano/curso-nodejs/tree/master/seccion-4"
+  },
+  "author": "Gustavo Bersano",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.4"
+  }
+}
